@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfalidate",
+        "uuid": 22972476,
+        "checksum": "jlbymo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
